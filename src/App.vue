@@ -1,13 +1,12 @@
 <template>
 	<div id="pokedex">
-    	<h1 class="text--yelow">Pokedex DIO</h1>
+		<h1 class="text--yelow">Pokedex DIO</h1>
 	</div>
 </template>
 
 <script>
-
 export default {
-	name: 'App',
+	name: "App"
 };
 </script>
 
