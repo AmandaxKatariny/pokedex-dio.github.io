@@ -1,11 +1,12 @@
 module.exports = {
-  lintOnSave: false,
-  css:{
-		loaderOption: {
-			sass:{
-				additionsData: `
-				@import "@/styles/functions";
-				@import "@/styles/colors";
+	lintOnSave: false,
+
+	css: {
+		loaderOptions: {
+			sass: {
+				additionalData: `
+					@import "@/styles/functions";
+					@import "@/styles/colors";
 				`,
 			},
 		},
