@@ -1,6 +1,6 @@
 module.exports = {
 	lintOnSave: false,
-
+        publicPath: '/pokedex-dio/',
 	css: {
 		loaderOptions: {
 			sass: {
