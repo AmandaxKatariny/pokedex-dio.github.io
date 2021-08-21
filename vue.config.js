@@ -1,6 +1,6 @@
 module.exports = {
 	lintOnSave: false,
-	publicPath:'/pokedex-vue-dio/',
+	publicPath: '/pokedex-vue-dio/',
 
 	css: {
 		loaderOptions: {
