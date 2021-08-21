@@ -39,7 +39,7 @@ module.exports = {
 		{
 			files: ['*.vue'],
 			rules: {
-				indent: 'true',
+				indent: 'off',
 			},
 		},
 	],

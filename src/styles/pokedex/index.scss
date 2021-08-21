@@ -1,7 +1,7 @@
-.text{
+.text {
 	@include modifiers($colors, 'color');
 }
 
-.bg{
+.bg {
 	@include modifiers($colors, 'background');
 }
