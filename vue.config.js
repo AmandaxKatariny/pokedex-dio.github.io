@@ -1,8 +1,6 @@
 module.exports = {
-	  publicPath: process.env.NODE_ENV === 'production'
-    ? '/pokedex-vue-dio/'
-    : '/',
 	lintOnSave: false,
+	publicPath:'/pokedex-vue-dio/',
 
 	css: {
 		loaderOptions: {
